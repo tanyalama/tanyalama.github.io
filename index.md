@@ -12,17 +12,14 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
 ---
 
+
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
             Blue Ham<br/>
-            <div id="hide_email">
-            Email: <code>WO</code><b>I</b><code>OF</code><b>don't</b><code>WO</code><b>want</b><code>OF</code><b>spam!
-            </b><code>@</code><b>So</b><code>GO</code><b>please</b><code>OD</code><b>leave
-            </b><code>BOY</code><b>me</b><code>.</code><b>alone</b><code>C</code><b>!</b><code>OM</code><br/>
-            </div>
+            Email: WOOFWOOF@goodboy.com<br/>
         </div>
 
         <div class="span2">
