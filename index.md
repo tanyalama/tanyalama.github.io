@@ -33,7 +33,7 @@ Dr. Lama completed her bachelors at the University of Connecticut, followed by a
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
           <li><a href="https://github.com/tanyalama">GitHub</a></li>
           <li><a href="https://twitter.com/tanyalama">Twitter (@tanyalama)</a></li>
       </ul>
