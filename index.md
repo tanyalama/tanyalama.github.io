@@ -9,7 +9,7 @@ Dr. Lama completed her bachelors at the University of Connecticut, followed by a
 
 She is currently a National Science Foundation Postdoctoral Research Fellowship in Biology. Along with co-PIs Drs. Liliana Davalos (SUNY Stony Brook) and Emma Teeling (University College Dublin), Dr. Lama uses computational approaches to explore the genomic mechanisms underlying extreme longevity and healthy aging in bats. 
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
 ---
