@@ -23,9 +23,6 @@ Our research group is committed to maintaining and further developing an equitab
 #### Apply: 
 If interested, please submit this application (https://forms.gle/2P7w6UexDnXkY9bc6) by March 12th, 2021. Feel free to email the principal investigator (PI) at the head of this recruitment, Dr. Tanya Lama (tanya.lama@stonybrook.edu) with any questions. Please do not contact Dr. Davalos regarding these positions.
 
-
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/Rhie_2021.pdf)
-
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--
