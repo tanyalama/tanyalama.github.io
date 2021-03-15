@@ -17,7 +17,6 @@ Dr. Lama completed her bachelors at the University of Connecticut, followed by a
     <div class="row-fluid">
         <div class="span5">
             Tanya M. Lama, PhD<br/>
-            Ph: (203) 824 9286<br/>
             Email: tanya.lama@stonybrook.edu<br/>
         </div>
 
