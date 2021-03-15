@@ -16,11 +16,12 @@ She is currently a National Science Foundation Postdoctoral Research Fellowship 
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="Contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
             Tanya M. Lama, PhD<br/>
+            Ph: (203) 824 9286<br/>
             Email: tanya.lama@stonybrook.edu<br/>
         </div>
 
@@ -35,7 +36,7 @@ She is currently a National Science Foundation Postdoctoral Research Fellowship 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
+          <li><a href="https://hackmd.io/@tlama/aboutme">HackMD</a></li>
           <li><a href="https://github.com/tanyalama">GitHub</a></li>
           <li><a href="https://twitter.com/tanyalama">Twitter (@tanyalama)</a></li>
       </ul>
