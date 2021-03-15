@@ -12,7 +12,8 @@ Thus far, these approaches have resulted in a major departure from Stony Brook's
 
 We have compiled <a href="https://docs.google.com/document/d/1eR0Q8R1Dk2iPP__fIKWOqptL-5varoDixBTafnd8RLI/edit?usp=sharing">an open-source list of scholars</a> who self-identify as both (1) members of an under-represented minority group in academia and (2) early-career (pre-tenure). 
   
-**If you would like to be invited to speak at the Fall 2021 departmental colloquium, please contact Dr. Lama.**
+If you would like to be **added to our open-source speaker database** or **invite Dr. Lama to speak at your departmental colloquium**, please contact: 
+tanya.lama@stonybrook.edu
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
