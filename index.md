@@ -5,9 +5,7 @@ description: Tanya is a National Science Foundation postdocoral research fellow 
 keywords: conservation, genomics, wildlife, bats, lynx, ecology
 ---
 
-Dr. Lama completed her bachelors at the University of Connecticut, followed by a masters and doctorate in conservation biology at the University of Massachusetts Amherst Cooperative Fish & Wildlife Research Unit (USGS). Her research focuses on the evolutionary and conservation genomics of threatened and endangered species. In close collaboration with State and Federal agency partners, Dr. Lama uses a team-science approach which bridges the gap between research, practice, and policy. 
-
-She is currently a National Science Foundation Postdoctoral Research Fellowship in Biology. Along with co-PIs Drs. Liliana Davalos (SUNY Stony Brook) and Emma Teeling (University College Dublin), Dr. Lama uses computational approaches to explore the genomic mechanisms underlying extreme longevity and healthy aging in bats. 
+Dr. Lama completed her bachelors at the University of Connecticut, followed by a masters and doctorate in conservation biology at the University of Massachusetts Amherst Cooperative Fish & Wildlife Research Unit (USGS). Her research focuses on the evolutionary and conservation genomics of threatened and endangered species. In close collaboration with State and Federal agency partners, Dr. Lama uses a team-science approach which bridges the gap between research, policy, and practice. Tanya began a National Science Foundation Postdoctoral Research Fellowship in Biology in 2021. Along with co-PIs Drs. Liliana Davalos (SUNY Stony Brook) and Emma Teeling (University College Dublin), she uses computational approaches to explore the genomic mechanisms underlying extreme longevity and healthy aging in bats. In addition to her role as a research fellow, Dr. Lama receives teaching pegagogy and leadership training in as an associate of the National Institutes of Health NY-CAPS IRACDA program -- a targeted program for the development of underrepresented minority scholars in biomedical research. 
 
 [Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -16,7 +14,7 @@ She is currently a National Science Foundation Postdoctoral Research Fellowship 
 
 
 <div class="container">
-<h4><a name="Contact"></a>contact</h4>
+<h4><a name="Contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
