@@ -11,18 +11,13 @@ Dr. Lama completed the <a href="https://blogs.umass.edu/applyteachfellows/">UMas
 
 Dr. Lama served as the instructor-of-record of the following courses at UMass Amherst:
 
-##### NRC 390E Evolution & Conservation (Taught every Spring semester)
+##### NATSCI 191 Conservation Biology 101 First Year Seminar
 
-[click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/syllabi/NRC.pdf)
+[click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/syllabi/NATSCI_191_SYLLABUS.pdf)
 
 ##### NRC 590D Marine Conservation Biology & Policy (Fall 2020)
 
-[click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/working_papers/Rhie_2021.pdf)
-
-##### NRC 580 Conservation Genetics
-
-[click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/working_papers/Rhie_2021.pdf)
-
+[click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/syllabi/.pdf)
 
 Please see the UMass Degree Programs webpage for more information on courses offered through the Natural Resources Conservation major at UMass Amherst.
 
