@@ -24,15 +24,11 @@ This 1-credit course fulfills one component of the General Education Integrative
 
 [click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/syllabi/BIO494-SYLLABUS.pdf)
 
-Please see the UMass Degree Programs webpage for more information on courses offered through the Natural Resources Conservation major at UMass Amherst.
-
-I also co-lead the UMass Amherst Bioinformatics & Big Data in Biology User Group and associated graduate student journal club with Dr. Courtney Babbit. We currently meet ~monthly to share ideas, resources and work on data problems together. We are also developing other opportunities such as workshops and trainings, and maintain an active Slack community and listserv that is open to anyone in the UMass community to join. If you are interested in learning more, please contact our student rep, Nadia Fernandez: nbfernandezATumass.edu.
+Please see the <a href="https://www.umass.edu/gateway/academics/undergraduate">UMass Degree Programs webpage</a> for more information on courses offered through the College of Natural Sciences at UMass Amherst.
 
 #### <u>Workshops</u>
 
-All tutorials and presentations are here from our workshop in Non-model RNA-Seq analysis at Scripps Institution of Oceanography (UC San Diego) October 11-12th, 2017.
-
-[click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/working_papers/Rhie_2021.pdf)
+Drs. Tanya Lama and Brenna Forester will be co-leading a conservation genomics workshop for State and Federal agency practitioners in 2022. Please contact Dr. Lama if you would like to join us as a participant or co-instructor. 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
