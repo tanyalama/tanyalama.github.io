@@ -14,6 +14,7 @@ Dr. Lama served as the instructor-of-record of the following courses at UMass Am
 ##### NATSCI 191 Conservation Biology 101 First Year Seminar
 
 [click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/syllabi/NATSCI_191_SYLLABUS.pdf)
+[click here for Dr. Lama's complete course evaluations]({{ BASE_PATH}}/pages/course_evals/NATSCI191-Lama-EVALS.pdf)
 
 ##### NRC 590D Marine Conservation Biology & Policy (Fall 2020)
 
