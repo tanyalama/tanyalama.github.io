@@ -23,7 +23,7 @@ Dr. Lama completed her bachelors at the University of Connecticut, followed by a
             Email: tanya.lama@stonybrook.edu<br/>
         </div>
 
-        <div class="span2">
+        <div class="span1">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Tanya M. Lama, PhD" alt="Tanya Lama"/></a>
