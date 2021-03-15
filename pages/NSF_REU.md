@@ -1,12 +1,8 @@
 ---
 layout: page
-title: NSF REU
+title: National Science Foundation Research Experience for Undergraduates
 description: NSF Research Experience for Undergraduates
 ---
-
-#### NSF RESEARCH EXPERIENCE FOR UNDERGRADUATES
-
-We are seeking 1-2 undergraduate students to join our research team for Research Experiences for Undergraduates (REU) positions in the summer of 2021 (dates to-be-announced). The positions are supported through the National Science Foundation (NSF) and participants will receive a $6000 stipend ($15/h), and will be expected to participate full-time (35-40hr/week) for a period of 10 weeks. There is no limit on the geographic location of the student. However, due to our funding source, we are limited to individuals who are U.S. citizens, U.S. nationals, or permanent residents of the United States. Students must be enrolled as undergraduates in Fall 2021. In other words, students who have graduated or are graduating this spring in May 2021 are not eligible for this REU. 
 
 #### Exploring extreme longevity and healthy aging in bats
 ![alt text](https://ucanr.edu/blogs/USS/blogfiles/34337.jpg) 
@@ -21,6 +17,9 @@ We are seeking enthusiastic undergraduates to join us for this opportunity – n
 Our research group is committed to maintaining and further developing an equitable and inclusive research environment and we welcome students from all backgrounds to apply. 
 
 #### Apply: 
+
+We are seeking 1-2 undergraduate students to join our research team for Research Experiences for Undergraduates (REU) positions in the summer of 2021 (dates to-be-announced). The positions are supported through the National Science Foundation (NSF) and participants will receive a $6000 stipend ($15/h), and will be expected to participate full-time (35-40hr/week) for a period of 10 weeks. There is no limit on the geographic location of the student. However, due to our funding source, we are limited to individuals who are U.S. citizens, U.S. nationals, or permanent residents of the United States. Students must be enrolled as undergraduates in Fall 2021. In other words, students who have graduated or are graduating this spring in May 2021 are not eligible for this REU. 
+
 If interested, <a href="https://forms.gle/2P7w6UexDnXkY9bc6">please submit this application</a> by March 12th, 2021. 
 
 Feel free to email the principal investigator (PI) at the head of this recruitment, Dr. Tanya Lama (tanya.lama@stonybrook.edu) with any questions. Please do not contact Dr. Davalos regarding these positions.
