@@ -22,7 +22,7 @@ Dr. Lama served as the instructor-of-record of the following courses at UMass Am
 ##### BIO 494LI Life After Biology
 This 1-credit course fulfills one component of the General Education Integrative Experience requirement for Biology majors. The course is designed to help students reflect on their academic training and prepare for multiple career trajectories. Students learn about career options for life scientists and develop strategies and skills to position themselves to be successful. In order to satisfy the Integrative Experience requirement, BA-Biol and BS-Biol majors must also take one of the approved 3- or 4-credit Biology courses listed on their Academic Requirements Report.
 
-[click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/syllabi/BIO494_SYLLABUS.pdf)
+[click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/syllabi/BIO494-SYLLABUS.pdf)
 
 Please see the UMass Degree Programs webpage for more information on courses offered through the Natural Resources Conservation major at UMass Amherst.
 
