@@ -21,7 +21,7 @@ We are seeking enthusiastic undergraduates to join us for this opportunity – n
 Our research group is committed to maintaining and further developing an equitable and inclusive research environment and we welcome students from all backgrounds to apply. 
 
 #### Apply: 
-If interested, <li><a href="https://forms.gle/2P7w6UexDnXkY9bc6">please submit this application</a></li> by March 12th, 2021. 
+If interested, <a href="https://forms.gle/2P7w6UexDnXkY9bc6">please submit this application</a> by March 12th, 2021. 
 
 Feel free to email the principal investigator (PI) at the head of this recruitment, Dr. Tanya Lama (tanya.lama@stonybrook.edu) with any questions. Please do not contact Dr. Davalos regarding these positions.
 
