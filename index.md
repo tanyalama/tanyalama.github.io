@@ -24,6 +24,7 @@ title="Tanya M. Lama, PhD" alt="Tanya Lama"/></a>
 <h4><a name="Contact"></a>Contact</h4>
     <div class="row-fluid">
         <div class="span5">
+        <div style="float: right;">Right Div</div>
             Tanya M. Lama, PhD<br/>
             Ph: (203) 824 9286<br/>
             Email: tanya.lama@stonybrook.edu<br/>
