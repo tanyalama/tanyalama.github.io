@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Tanya M. Lama, PhD
-description: Tanya is a National Science Foundation postdocoral research fellow in Biology at SUNY Stony Brook University. 
-keywords: conservation, genomics, wildlife, bats, lynx, ecology
+description: Tanya is a National Science Foundation Postdoctoral Research Fellow in Biology at SUNY Stony Brook University. 
+keywords: conservation, genomics, wildlife, bat, lynx, ecology, aging, longevity
 ---
 
 About Me
@@ -12,24 +12,26 @@ Dr. Lama completed her bachelors at the University of Connecticut, followed by a
 [Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
+---
 
 
 <div class="container">
 <h4><a name="Contact"></a>Contact</h4>
+
     <div class="row-fluid">
         <div class="span5">
             Tanya M. Lama, PhD<br/>
             Ph: (203) 824 9286<br/>
             Email: tanya.lama@stonybrook.edu<br/>
-    <div class="container">
+        </div>
+
         <div class="span4">
         <a href="../assets/headshot.jpg">
-        <img src="../assets/headshot.jpg"
-        title="Tanya M. Lama, PhD" alt="Tanya Lama"/></a>
+            <img src="../assets/headshot.jpg"
+                  title="Tanya M. Lama, PhD" alt="Tanya Lama"/></a>
+        </div>
+    </div>
 </div>
-</div>
-
-
 
 <div class="navbar">
   <div class="navbar-inner">
@@ -40,6 +42,4 @@ Dr. Lama completed her bachelors at the University of Connecticut, followed by a
       </ul>
   </div>
 </div>
-
-
 
