@@ -3,14 +3,17 @@ layout: page
 title: Teaching
 description: Tanya M. Lama's teaching portfolio
 ---
+### <u>National Institutes of Health IRACDA<u>
 
 #### <u>Past Courses</u>
 
-I recently taught the following courses as lead instructor through the UMass Amherst Dept of Environmental Conservation:
+Dr. Lama completed the <a href="https://blogs.umass.edu/applyteachfellows/">UMass College of Natural Sciences Teaching Fellowship</a> in 2018. Led my Dr. Elizabeth Jakobs and the Center for Integrated Research, Teaching and Learning, fellows gain teaching pedagogy training and faculty mentorship while designing their own course. As instructor of record, Dr. Lama led two sections of a conservation biology-focused First Year Seminar (a maximum of 19 Exploratory Track freshmen) in a graded seminar which met once per week in Fall 2018. Her course incorporated mini-lectures with active learning strategies, as one of the University’s goals with this program was to give the students a chance to interact with each other and build a sense of community. 
+
+Dr. Lama served as the instructor-of-record of the following courses at UMass Amherst:
 
 ##### NRC 390E Evolution & Conservation (Taught every Spring semester)
 
-[click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/working_papers/Rhie_2021.pdf)
+[click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/syllabi/NRC.pdf)
 
 ##### NRC 590D Marine Conservation Biology & Policy (Fall 2020)
 
