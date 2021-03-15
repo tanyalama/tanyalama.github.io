@@ -7,19 +7,17 @@ keywords: conservation, genomics, wildlife, bats, lynx, ecology
 
 About Me
 ---
+Dr. Lama completed her bachelors at the University of Connecticut, followed by a masters and doctorate in conservation biology at the           University of Massachusetts Amherst Cooperative Fish & Wildlife Research Unit (USGS). Her research focuses on the evolutionary and               conservation genomics of threatened and endangered species. In close collaboration with State and Federal agency partners, Dr. Lama uses         a team-science approach which bridges the gap between research, policy, and practice. Tanya began a National Science Foundation       Postdoctoral Research Fellowship in Biology in 2021. Along with co-PIs Drs. Liliana Davalos (SUNY Stony Brook) and Emma Teeling (University     College Dublin), she uses computational approaches to explore the genomic mechanisms underlying extreme longevity and healthy aging in bats. In addition to her role as a research fellow, Dr. Lama receives teaching pegagogy and leadership training in as an associate of the National Institutes of Health NY-CAPS IRACDA program -- a targeted program for the development of underrepresented minority scholars in biomedical research. 
+
+[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+
 
 <div class="container">
-<div class="span5">
+<div class="span4">
 <a href="../assets/headshot.jpg">
 <img src="../assets/headshot.jpg"
 title="Tanya M. Lama, PhD" alt="Tanya Lama"/></a>
 </div>
-
-
----
-Dr. Lama completed her bachelors at the University of Connecticut, followed by a masters and doctorate in conservation biology at the           University of Massachusetts Amherst Cooperative Fish & Wildlife Research Unit (USGS). Her research focuses on the evolutionary and               conservation genomics of threatened and endangered species. In close collaboration with State and Federal agency partners, Dr. Lama uses         a team-science approach which bridges the gap between research, policy, and practice. Tanya began a National Science Foundation       Postdoctoral Research Fellowship in Biology in 2021. Along with co-PIs Drs. Liliana Davalos (SUNY Stony Brook) and Emma Teeling (University     College Dublin), she uses computational approaches to explore the genomic mechanisms underlying extreme longevity and healthy aging in bats. In addition to her role as a research fellow, Dr. Lama receives teaching pegagogy and leadership training in as an associate of the National Institutes of Health NY-CAPS IRACDA program -- a targeted program for the development of underrepresented minority scholars in biomedical research. 
-
-[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 ---
 <div class="container">
