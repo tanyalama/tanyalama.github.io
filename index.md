@@ -13,10 +13,9 @@ Dr. Lama completed her bachelors at the University of Connecticut, followed by a
 
 
 ---
-
+#### Contact
 
 <div class="container">
-<h4><a name="Contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
