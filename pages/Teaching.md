@@ -8,15 +8,15 @@ description: Tanya M. Lama's teaching portfolio
 
 I recently taught the following courses as lead instructor through the UMass Amherst Dept of Environmental Conservation:
 
-NRC 390E Evolution & Conservation (Taught every Spring semester)
+##### NRC 390E Evolution & Conservation (Taught every Spring semester)
 
 [click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/working_papers/Rhie_2021.pdf)
 
-NRC 590D Marine Conservation Biology & Policy (Fall 2020)
+##### NRC 590D Marine Conservation Biology & Policy (Fall 2020)
 
 [click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/working_papers/Rhie_2021.pdf)
 
-NRC 580 Conservation Genetics
+##### NRC 580 Conservation Genetics
 
 [click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/working_papers/Rhie_2021.pdf)
 
@@ -29,7 +29,7 @@ I also co-lead the UMass Amherst Bioinformatics & Big Data in Biology User Group
 
 All tutorials and presentations are here from our workshop in Non-model RNA-Seq analysis at Scripps Institution of Oceanography (UC San Diego) October 11-12th, 2017.
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/Rhie_2021.pdf)
+[click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/working_papers/Rhie_2021.pdf)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
