@@ -15,13 +15,11 @@ Dr. Lama completed her bachelors at the University of Connecticut, followed by a
 <div class="container">
 <h4><a name="About Me"></a>About Me</h4>
 
-    <div class="row-fluid">
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Tanya M. Lama, PhD" alt="Tanya Lama"/></a>
         </div>
-    </div>
 </div>
 
 <div class="container">
@@ -32,13 +30,6 @@ Dr. Lama completed her bachelors at the University of Connecticut, followed by a
             Tanya M. Lama, PhD<br/>
             Ph: (203) 824 9286<br/>
             Email: tanya.lama@stonybrook.edu<br/>
-        </div>
-
-        <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Tanya M. Lama, PhD" alt="Tanya Lama"/></a>
-        </div>
     </div>
 </div>
 
