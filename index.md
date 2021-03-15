@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Tanya M. Lama, PhD
-description: Tanya is a National Science Foundation Postdoctoral Research Fellow in Biology at SUNY Stony Brook University. 
+description: Tanya is a National Science Foundation Postdoctoral Research Fellow in Biology at SUNY Stony Brook. 
 keywords: conservation, genomics, wildlife, bat, lynx, ecology, aging, longevity
 ---
 
