@@ -1,6 +1,6 @@
 ---
 layout: page
-title: National Science Foundation Research Experience for Undergraduates
+title: NSF Research Experience for Undergraduates
 description: NSF Research Experience for Undergraduates
 ---
 #### Exploring extreme longevity and healthy aging in bats
