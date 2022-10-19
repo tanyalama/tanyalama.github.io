@@ -4,11 +4,17 @@ title: Teaching
 description: Tanya M. Lama's teaching portfolio
 ---
 #### <u>National Institutes of Health IRACDA Fellow<u>
-As an associate fellow of the <a href="https://www.stonybrook.edu/commcms/cie/iracda/about/">NIH IRACDA (Institutional Research and Academic Career Development Award) program</a>, Dr. Lama receives supplementary research funding and teaching pedagogy development led by the Center for Inclusive Education at SUNY Stony Brook. This includes a 3-year mentored fellowship at Stony Brook University and teaching experience as instructor-of-record at minority-serving Partner Institutions:  CUNY Brooklyn College, SUNY College at Old Westbury and Suffolk County Community College. Dr. Lama will complete the teaching component of her NIH IRACDA fellowship in the <a href="https://doccs.ny.gov/college-programs">NY College Prison Education Program</a> in 2022. 
+As an associate fellow of the <a href="https://www.stonybrook.edu/commcms/cie/iracda/about/">NIH IRACDA (Institutional Research and Academic Career Development Award) program</a>, Dr. Lama receives supplementary research funding and teaching pedagogy development led by the Center for Inclusive Education at SUNY Stony Brook. This includes a 3-year mentored fellowship at Stony Brook University and teaching experience as instructor-of-record at minority-serving Partner Institutions:  CUNY Brooklyn College, SUNY College at Old Westbury and Suffolk County Community College. Dr. Lama will complete the teaching component of her NIH IRACDA fellowship in 2023. 
   
 #### <u>UMass Amherst College of Natural Sciences Teaching Fellow</u>
 
 Dr. Lama completed the <a href="https://blogs.umass.edu/applyteachfellows/">UMass College of Natural Sciences Teaching Fellowship</a> in 2018. Led my Dr. Elizabeth Jakobs and the Center for Integrated Research, Teaching and Learning, fellows gain teaching pedagogy training and faculty mentorship while designing their own course. As instructor of record, Dr. Lama led two sections of a conservation biology-focused First Year Seminar (a maximum of 19 Exploratory Track freshmen) in a graded seminar which met once per week in Fall 2018. Her course incorporated mini-lectures with active learning strategies, as one of the University’s goals with this program was to give the students a chance to interact with each other and build a sense of community. 
+
+
+#### <u>Teaching Philosophy</u>
+I work towards two goals as an educator: to foster an inclusive learning environment and to build critical thinking skills. Most students will not go on to become scientists, but all students benefit from becoming scientifically literate. Regardless of their major, STEM education prepares students to understand scientific concepts and employ the thought processes required for personal decision making and participation in civic affairs. I use experiential and active-learning techniques that boost engagement and create a community in the classroom. My techniques and values are interwoven, providing the foundation for my approach to teaching and mentorship. Feedback and pedagogical training via the NIH IRACDA program (an initiative for the development of underrepresented teacher-scholars) have shaped my evidence-based approach to teaching and mentorship. You can read my full teaching statement [here]({{ BASE_PATH}}/pages/teaching/LAMA_teaching_statement_22.pdf) 
+  
+  ![image](https://user-images.githubusercontent.com/36007010/196573028-1d64a5e0-bb6a-4494-bf75-224c1f775c8e.png)
 
 #### <u>Past Courses</u>
 Dr. Lama served as the instructor-of-record of the following courses at UMass Amherst:
@@ -28,7 +34,7 @@ Please see the <a href="https://www.umass.edu/gateway/academics/undergraduate">U
 
 #### <u>Workshops</u>
 
-Drs. Tanya Lama and Brenna Forester will be co-leading a conservation genomics workshop for State and Federal agency practitioners in 2022. Please contact Dr. Lama if you would like to join us as a participant or co-instructor. 
+Drs. Tanya Lama and Brenna Forester will be co-leading a conservation genomics workshop for State and Federal agency practitioners in 2023. Please contact Dr. Lama if you would like to join us as a participant or co-instructor. 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
