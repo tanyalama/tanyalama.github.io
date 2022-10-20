@@ -13,7 +13,14 @@ Thus far, these approaches have resulted in a major departure from Stony Brook's
 We have compiled <a href="https://docs.google.com/document/d/1eR0Q8R1Dk2iPP__fIKWOqptL-5varoDixBTafnd8RLI/edit?usp=sharing">an open-source list of scholars</a> who self-identify as both (1) members of an under-represented minority group in academia and (2) early-career (pre-tenure). 
   
 If you would like to be **added to our open-source speaker database** or **invite Dr. Lama to speak at your departmental colloquium**, please contact: 
-tanya.lama@stonybrook.edu
+tanya.m.lama@gmail.com
+  
+#### <u>A Selection of Invited Talks<u>
+1.	Lama TM (2022) Evolutionary genomics for conservation: assessing vulnerability, resilience and response in a changing world. Invited talk. University of Michigan. Ann Arbor, MI.
+2.	Lama TM (2021) Exploring the bat immunome and the genomic underpinnings of extreme longevity. Invited talk. The Verena Consortium. Washington DC.
+3.	Lama TM (2021) Using gene-environment associations (GEA) to inform management in a changing environment. Invited talk. Conte Anadromous Fish Research Center. Amherst, MA.
+4.	Lama TM (2021) Assessing genomic vulnerability among Canada lynx (Lynx canadensis) populations at the trailing edge. Invited talk. California State University Stanislaus. Stanislaus, CA
+5.	Lama TM (2021) Using genomics to inform management of Canada lynx (Lynx canadensis) populations in a changing environment. Invited talk. Northern Arizona University. Flagstaff, AZ.
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
