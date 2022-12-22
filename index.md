@@ -28,7 +28,7 @@ Dr. Tanya Lama is a National Science Foundation Postdoctoral Research Fellow in 
     </div>
 </div>
 
-[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/)<br/>
 
 
 <div class="navbar">
