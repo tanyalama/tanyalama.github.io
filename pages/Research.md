@@ -15,9 +15,8 @@ Global climate change will soon outpace habitat loss as the leading threat to bi
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/36007010/197008091-ba0a9985-0bfd-498b-b14f-301dd371da65.png">
 
 #### <u>Peer Reviewed Publications</u>
-1.	Forester B, Lama TM (2022) *“The role of genomics in the future of ESA decision-making.”* The Codex of the Endangered Species Act: The Next Fifty Years –Volume II. Edited by Lowell E. Baird and John Organ, Rowman & Littlefield, July 2022, pp. 1-33. doi:10.32942/osf.io/b6rf4
+1.	Forester B, Lama TM (2022) “The role of genomics in the future of ESA decision-making.”* The Codex of the Endangered Species Act: The Next Fifty Years –Volume II. Edited by Lowell E. Baird and John Organ, Rowman & Littlefield, July 2022, pp. 1-33. doi:10.32942/osf.io/b6rf4
 2.	Cardoza JE, Lama TM, Mawdsley JR, Organ JF (2022) *“Canada lynx”* Wild Furbearer Management and Conservation in North America. Edited by Timothy Hiller, Publisher, January 2023, pp. 1-31. 
-3.	Lama, TM, et al. (2022) “Assessing genomic vulnerability among Canada lynx (Lynx canadensis) populations at the trailing edge.” *Molecular Ecology*. 
 4.	Dahn HA, et al. (2022) Benchmarking ultra-high molecular weight DNA preservation methods for long-read and long-range sequencing. *Gigascience*. 2022 Jun; 0:1-13. DOI: 10.1093/gigascience/giac068
 5.	Moreno Santillan D, Lama TM, et al. (2021) Large-scale sampling reveals unique immunity and metabolic adaptations in bats. *Molecular Ecology*. 2021 Jun; 30:6449–6467.
 6.	Rhie A, et al. (2021) Towards complete and error-free genome assemblies of all vertebrate species. *Nature*. 2021 Apr; 592 (7856):737-46.
