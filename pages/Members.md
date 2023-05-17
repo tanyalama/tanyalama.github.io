@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Group Members
+title: Wildlife Genomics Lab @ Smith College
 description: personnel in the lab (past and current)
 ---
 
