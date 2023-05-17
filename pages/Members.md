@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Members
+title: Group Members
 description: personnel in the lab (past and current)
 ---
 
@@ -49,7 +49,7 @@ Group Members
 
     <div class="row-fluid">
         <div class="span5">
-            <br/>
+            Name <br/>
             Email: email@email.edu<br/>
         </div>
 
