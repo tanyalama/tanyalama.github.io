@@ -5,13 +5,13 @@ description: Tanya is a National Science Foundation Postdoctoral Research Fellow
 keywords: conservation, genomics, wildlife, bat, lynx, ecology, aging, longevity
 ---
 
-## Welcome to the Wildlife Genomics Lab @ Smith College
+Wildlife Genomics Lab @ Smith College
 ---
 We use genomics to study the evolutionary processes underlying population vulnerability, resilience, and response, particularly in the context of global climate change. Our current projects focus on how life history traits -- particularly lifespan and body size -- can shape evolutionary responses to rapid environmental change.  
 
 ---
 ### <u>Recent News<u>
-We are searching for a two-year postdoc to join us in December 2023. If you are interested please don't hesitate to reach out (tlama@smith.edu) to discuss opportunities for research and teaching in our lab. Applications will be reviewed on May 30th. <a href="[https://apply.interfolio.com/125359]">Apply here</a>   
+We are searching for a two-year postdoc to join us in December 2023. If you are interested please don't hesitate to reach out (tlama@smith.edu) to discuss opportunities for research and teaching in our lab. Applications will be reviewed on May 30th. <a href="https://apply.interfolio.com/125359">Apply here</a>   
 <div class="container">
 
     <div class="row-fluid">
