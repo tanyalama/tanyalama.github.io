@@ -17,7 +17,7 @@ We are searching for a two-year postdoc to join us in December 2023. If you are 
     <div class="row-fluid">
         <div class="span5">
             Tanya M. Lama, PhD<br/>
-            Email: tanya.m.lama@gmail.com<br/>
+            Email: tlama@smith.edu<br/>
         </div>
 
         <div class="span2">
