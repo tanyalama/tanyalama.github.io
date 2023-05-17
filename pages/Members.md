@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Group Members
+title: Members
 description: personnel in the lab (past and current)
-keywords: conservation, genomics, wildlife, bat, lynx, ecology, aging, longevity
 ---
 
 Principal Investigator
