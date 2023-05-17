@@ -2,36 +2,79 @@
 layout: page
 title: Group Members
 description: personnel in the lab (past and current)
+keywords: conservation, genomics, wildlife, bat, lynx, ecology, aging, longevity
 ---
-#### <u>Teaching Philosophy</u>
-I work towards two goals as an educator: to foster an inclusive learning environment and to build critical thinking skills. Most students will not go on to become scientists, but all students benefit from becoming scientifically literate. Regardless of their major, STEM education prepares students to understand scientific concepts and employ the thought processes required for personal decision making and participation in civic affairs. I use experiential and active-learning techniques that boost engagement and create a community in the classroom. My techniques and values are interwoven, providing the foundation for my approach to teaching and mentorship. Feedback and pedagogical training via the NIH IRACDA program (an initiative for the development of underrepresented teacher-scholars) have shaped my evidence-based approach to teaching and mentorship. You can read my full teaching statement [here]({{ BASE_PATH}}/pages/teaching/LAMA_teaching_statement_22.pdf) 
 
-#### <u>National Institutes of Health IRACDA Fellow<u>
-As an associate fellow of the <a href="https://www.stonybrook.edu/commcms/cie/iracda/about/">NIH IRACDA (Institutional Research and Academic Career Development Award) program</a>, Dr. Lama receives supplementary research funding and teaching pedagogy development led by the Center for Inclusive Education at SUNY Stony Brook. This includes a 3-year mentored fellowship at Stony Brook University and teaching experience as instructor-of-record at minority-serving Partner Institutions:  CUNY Brooklyn College, SUNY College at Old Westbury and Suffolk County Community College. Dr. Lama will complete the teaching component of her NIH IRACDA fellowship in 2023. 
-  
-#### <u>UMass Amherst College of Natural Sciences Teaching Fellow</u>
+Principal Investigator
+---
+Dr. Tanya Lama received her doctorate from UMass Amherst and completed the National Science Foundation Postdoctoral Research Fellowship in Biology jointly hosted by the Karlsson Lab at the Broad Institute of MIT & Harvard and the Dávalos Lab at SUNY Stony Brook. Using genomic methods, Dr. Lama studies the evolutionary processes underlying population vulnerability, resilience, and response, particularly in the context of global climate change. Her applied conservation research on Canada lynx _(L. canadensis)_ demonstrates how genomics can bridge the gap between research, management, and policy. The Wildlife Genomics Lab at Smith College focuses on how life history traits -- particularly lifespan -- can shape evolutionary responses to rapid environmental change. Along with key collaborators <a href="https://lmdavalos.github.io/">Drs. Liliana Davalos (SUNY Stony Brook)</a> and <a href="http://batlab.ucd.ie/">Emma Teeling (University College Dublin)</a>, Dr. Lama uses comparative genomics to explore the evolution and mechanisms of aging in long-lived and short-lived species of bats and other mammals. In addition to her role as a research fellow, she received teaching pedagogy and leadership training from <a href="https://www.stonybrook.edu/commcms/iracda/">National Institutes of Health NY-CAPS IRACDA </a> – a targeted program for the development of underrepresented minority scholars in biomedical research. 
 
-Dr. Lama completed the <a href="https://blogs.umass.edu/applyteachfellows/">UMass College of Natural Sciences Teaching Fellowship</a> in 2018. Led my Dr. Elizabeth Jakobs and the Center for Integrated Research, Teaching and Learning, fellows gain teaching pedagogy training and faculty mentorship while designing their own course. As instructor of record, Dr. Lama led two sections of a conservation biology-focused First Year Seminar (a maximum of 19 Exploratory Track freshmen) in a graded seminar which met once per week in Fall 2018. Her course incorporated mini-lectures with active learning strategies, as one of the University’s goals with this program was to give the students a chance to interact with each other and build a sense of community. 
-  
-#### <u>Past Courses</u>
-Dr. Lama served as the instructor-of-record of the following courses at UMass Amherst:
+---
+#### <u>Contact<u>
 
-##### NATSCI 191 Conservation Biology 101 First Year Seminar
+<div class="container">
 
-[click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/syllabi/NATSCI191_SYLLABUS.pdf)
+    <div class="row-fluid">
+        <div class="span5">
+            Tanya M. Lama, PhD<br/>
+            Email: tlama@smith.edu<br/>
+        </div>
 
-[click here for Dr. Lama's complete course evaluations]({{ BASE_PATH}}/pages/course_evals/NATSCI191-Lama-EVALS.pdf)
+        <div class="span2">
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/headshot.jpg"
+                  title="Tanya M. Lama, PhD" alt="Tanya Lama"/></a>
+        </div>
+    </div>
+</div>
 
-##### BIO 494LI Life After Biology
-This 1-credit course fulfills one component of the General Education Integrative Experience requirement for Biology majors. The course is designed to help students reflect on their academic training and prepare for multiple career trajectories. Students learn about career options for life scientists and develop strategies and skills to position themselves to be successful. In order to satisfy the Integrative Experience requirement, BA-Biol and BS-Biol majors must also take one of the approved 3- or 4-credit Biology courses listed on their Academic Requirements Report.
+[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/)<br/>
 
-[click here for the most recent version of the syllabus]({{ BASE_PATH}}/pages/syllabi/BIO494-SYLLABUS.pdf)
 
-Please see the <a href="https://www.umass.edu/gateway/academics/undergraduate">UMass Degree Programs webpage</a> for more information on courses offered through the College of Natural Sciences at UMass Amherst.
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="https://hackmd.io/@tlama/aboutme">HackMD</a></li>
+          <li><a href="https://github.com/tanyalama">GitHub</a></li>
+          <li><a href="https://twitter.com/tanyalama">Twitter (@tanyalama)</a></li>
+      </ul>
+  </div>
+</div>
 
-#### <u>Workshops</u>
+Group Members
+---
+---
+#### <u>Contact<u>
 
-Drs. Tanya Lama and Brenna Forester will be co-leading a conservation genomics workshop for State and Federal agency practitioners in 2023. Please contact Dr. Lama if you would like to join us as a participant or co-instructor. 
+<div class="container">
+
+    <div class="row-fluid">
+        <div class="span5">
+            <br/>
+            Email: email@email.edu<br/>
+        </div>
+
+        <div class="span2">
+        <a href="../assets/photo.jpg">
+            <img src="../assets/headshot.jpg"
+                  title="Name" alt="Name"/></a>
+        </div>
+    </div>
+</div>
+
+[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/)<br/>
+
+
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="https://hackmd.io/@tlama/aboutme">HackMD</a></li>
+          <li><a href="https://github.com/tanyalama">GitHub</a></li>
+          <li><a href="https://twitter.com/tanyalama">Twitter (@tanyalama)</a></li>
+      </ul>
+  </div>
+</div>
+
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
