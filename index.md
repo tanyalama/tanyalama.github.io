@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Tanya M. Lama, PhD
+title: Wildlife Genomics Lab @ Smith College
 description: Tanya is a National Science Foundation Postdoctoral Research Fellow in Biology. 
 keywords: conservation, genomics, wildlife, bat, lynx, ecology, aging, longevity
 ---
