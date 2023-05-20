@@ -3,7 +3,7 @@ layout: page
 title: Opportunities
 description: Opportunities
 ---
-#### <u>Seeking a Bioinformatics Postdoc: Exploring extreme longevity and healthy aging in bats<u>
+#### <u>POSTDOC SEARCH: Extreme longevity and healthy aging in bats<u>
 ![alt text](https://ucanr.edu/blogs/USS/blogfiles/34337.jpg) 
 photocredit: John Hoffman
 
