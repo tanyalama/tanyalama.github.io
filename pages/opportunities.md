@@ -3,7 +3,7 @@ layout: page
 title: Opportunities
 description: Opportunities
 ---
-#### <u>POSTDOC SEARCH: Extreme longevity and healthy aging in bats<u>
+#### <u>POSTDOC SEARCH: Lifespan evolution and healthy aging in bats<u>
 ![alt text](https://ucanr.edu/blogs/USS/blogfiles/34337.jpg) 
 photocredit: John Hoffman
 
