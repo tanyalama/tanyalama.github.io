@@ -14,7 +14,7 @@ Our research group is committed to maintaining and further developing an equitab
 #### <u>Apply:<u> 
 
 We are seeking a two year postdoctoral teacher-scholar to join our team.
-If interested, <a href="https://apply.interfolio.com/125359">please submit this application</a> by May 30th, 2023. This is a firm deadline.
+If interested, <a href="https://apply.interfolio.com/125359">please submit this application</a> ASAP. Offers will be extended by June 30th, 2023.
 Start date December 15, 2023. 
 Contact PI Lama (tlama@smith.edu) with questions or interest about the position.
 
