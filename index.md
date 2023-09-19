@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Wildlife Genomics Lab @ Smith College
-description: Tanya is a National Science Foundation Postdoctoral Research Fellow in Biology. 
+description: Tanya is an Assistant Professor of Genomics at Smith College. 
 keywords: conservation, genomics, wildlife, bat, lynx, ecology, aging, longevity
 ---
 
