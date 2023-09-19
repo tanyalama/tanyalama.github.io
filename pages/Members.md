@@ -50,7 +50,7 @@ Dr. Blair Bentley
 
     <div class="row-fluid">
         <div class="span5">
-            Name <br/>
+            Blair Bentley, PhD <br/>
             Email: bbentley@smith.edu<br/>
         </div>
 
@@ -72,7 +72,7 @@ Margo Weber
 
     <div class="row-fluid">
         <div class="span5">
-            Name <br/>
+            Margo Weber <br/>
             Email: mkweber@smith.edu<br/>
         </div>
 
@@ -94,7 +94,7 @@ Lucy Gould
 
     <div class="row-fluid">
         <div class="span5">
-            Name <br/>
+            Lucy Gould <br/>
             Email: lgould@smith.edu<br/>
         </div>
 
@@ -116,7 +116,7 @@ Andrea Batista
 
     <div class="row-fluid">
         <div class="span5">
-            Name <br/>
+            Andrea Batista <br/>
             Email: abatista@smith.edu<br/>
         </div>
 
