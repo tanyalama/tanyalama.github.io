@@ -16,6 +16,7 @@ We'll be holding an info session for all who have emailed about joining the WGL:
 
     <div class="row-fluid">
         <div class="span5">
+            Principal Investigator<br/> 
             Tanya M. Lama, PhD<br/>
             Email: tlama@smith.edu<br/>
         </div>
