@@ -56,8 +56,8 @@ Dr. Blair Bentley
 
         <div class="span2">
         <a href="../assets/photo.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Name" alt="Name"/></a>
+            <img src="../assets/1598329462927.jpeg"
+                  title="Blair Bentley" alt="Name"/></a>
         </div>
     </div>
 </div>
@@ -79,8 +79,8 @@ Margo Weber
 
         <div class="span2">
         <a href="../assets/photo.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Name" alt="Name"/></a>
+            <img src="../assets/M_Weber.jpeg"
+                  title="Margo Weber" alt="Name"/></a>
         </div>
     </div>
 </div>
@@ -102,8 +102,8 @@ Lucy Gould
 
         <div class="span2">
         <a href="../assets/photo.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Name" alt="Name"/></a>
+            <img src="../assets/.jpg"
+                  title="Lucy Gould" alt="Name"/></a>
         </div>
     </div>
 </div>
@@ -125,8 +125,8 @@ Andrea Batista
 
         <div class="span2">
         <a href="../assets/photo.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Name" alt="Name"/></a>
+            <img src="../assets/.jpg"
+                  title="Andrea Batista" alt="Name"/></a>
         </div>
     </div>
 </div>
