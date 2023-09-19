@@ -100,7 +100,7 @@ Lucy Gould
 
         <div class="span2">
         <a href="../assets/photo.jpg">
-            <img src="../assets/.jpg"
+            <img src="../assets/IMG_6592.jpg"
                   title="Lucy Gould" alt="Name"/></a>
         </div>
     </div>
