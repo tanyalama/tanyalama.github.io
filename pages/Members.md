@@ -62,7 +62,6 @@ Dr. Blair Bentley
     </div>
 </div>
 
-[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/)<br/>
 
 ---
 Margo Weber 
@@ -85,7 +84,6 @@ Margo Weber
     </div>
 </div>
 
-[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/)<br/>
 
 ---
 Lucy Gould
@@ -108,7 +106,6 @@ Lucy Gould
     </div>
 </div>
 
-[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/)<br/>
 
 ---
 Andrea Batista 
@@ -131,7 +128,6 @@ Andrea Batista
     </div>
 </div>
 
-[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/)<br/>
 
 
 <div class="navbar">
