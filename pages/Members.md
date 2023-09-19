@@ -42,7 +42,7 @@ Dr. Tanya Lama received her doctorate from UMass Amherst and completed the Natio
 
 Group Members
 ---
-Dr. Blair Bentley  
+Dr. Blair Bentley is a molecular ecologist with a focus on understanding the impacts of climate change on marine taxa. Blair is joining the lab in December 2023 as a postdoc and instructor of Bioinformatics and Comparative Molecular Biology (BIO334/5) offered in Spring 2024. Blair's research interests are centred around conserving biodiversity in the face of anthropogenic climate change and utilizing molecular tools to explore vulnerability and resilience. 
 ---
 #### <u>Contact<u>
 
@@ -64,7 +64,7 @@ Dr. Blair Bentley
 
 
 ---
-Margo Weber 
+Margo Weber is an MSc candidate in the Wildlife Genomics Lab.
 ---
 #### <u>Contact<u>
 
@@ -86,7 +86,7 @@ Margo Weber
 
 
 ---
-Lucy Gould
+Lucy Gould is an undergraduate researcher and lead teaching assistant for Genomics (BIO 336/7). 
 ---
 #### <u>Contact<u>
 
