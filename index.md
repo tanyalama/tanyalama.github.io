@@ -11,7 +11,7 @@ We use genomics to study the evolutionary processes underlying population vulner
 
 ---
 ### <u>Recent News<u>
-We are searching for a two-year postdoc to join us in December 2023. If you are interested please don't hesitate to reach out (tlama@smith.edu) to discuss opportunities for research and teaching in our lab. Applications will be reviewed on May 30th. <a href="https://apply.interfolio.com/125359">Apply here</a>   
+We'll be holding an info session for all who have emailed about joining the WGL: Wednesday, Sept 27th at 12:15PM in Ford Atrium.   
 <div class="container">
 
     <div class="row-fluid">
@@ -21,8 +21,8 @@ We are searching for a two-year postdoc to join us in December 2023. If you are 
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
+        <a href="../assets/A4E36897-FB8B-47DA-B104-ACEC582B64B4.JPG">
+            <img src="../assets/A4E36897-FB8B-47DA-B104-ACEC582B64B4.JPG"
                   title="Tanya M. Lama, PhD" alt="Tanya Lama"/></a>
         </div>
     </div>
