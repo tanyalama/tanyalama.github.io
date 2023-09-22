@@ -64,7 +64,7 @@ Dr. Blair Bentley is a molecular ecologist with a focus on understanding the imp
 
 
 ---
-Margo Weber is an MSc candidate in the Wildlife Genomics Lab.
+Margo Weber is an MSc candidate in the Wildlife Genomics Lab. She was recently selected as a 2023 Time Initiative Fellow for her proposed research on bat lifespan evolution. 
 ---
 #### <u>Contact<u>
 
@@ -78,7 +78,7 @@ Margo Weber is an MSc candidate in the Wildlife Genomics Lab.
 
         <div class="span2">
         <a href="../assets/photo.jpg">
-            <img src="../assets/M_Weber.jpeg"
+            <img src="../assets/3561f5a0-f92f-40ab-ac34-614bd749680e.jpg"
                   title="Margo Weber" alt="Name"/></a>
         </div>
     </div>
