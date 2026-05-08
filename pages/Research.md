@@ -3,14 +3,13 @@ layout: page
 title: Research
 description: Tanya M. Lama's research portfolio
 ---
-#### <u>Overview<u>
-My research integrates genomics, landscape ecology, and conservation biology in the context of human habitat alteration and rapid environmental change. Using a combination of field, lab, and computational approaches, I pursue questions rooted in ecological and evolutionary theory which have clear conservation applications and bridge the “research implementation gap” between science and policy. 
+#### <u> Research Overview<u>
+Research Overview
+	My research group integrates computational biology, field collections, and cell culture to study the evolution of complex life history traits. While our work pursues questions rooted in evolutionary theory, what we learn about a species’ unique biology informs practical applications in conservation, policy, and biotechnology. Broadly, our research explores genotype-phenotype- environment connections to uncover crucial variation which 
+shapes evolutionary responses to global change and; 
+may have translational potential for biotechnology and human health. 
 
-Broadly, my work centers on two topics: 
-(1)	Genetic mechanisms underlying eco-evolutionary processes				
-(2)	Factors influencing population persistence in natural and human-altered	environments
-
-Global climate change will soon outpace habitat loss as the leading threat to biodiversity. Wildlife populations experiencing rapid environmental change can rely upon three adaptive mechanisms to avoid extirpation. Individuals can rely upon (1) their dispersal ability to track suitable habitat; (2) behavioral or phenotypic plasticity at ecologically relevant traits; and (3) rapid evolution toward new adaptive optima. My research spans all three of these mechanisms, with a particular emphasis on the latter two (phenotypic plasticity and rapid evolution) which are genetically mediated.
+Global climate change will soon outpace habitat loss as the leading threat to biodiversity. Wildlife populations experiencing rapid environmental change can rely upon three adaptive mechanisms to avoid extirpation. Individuals can rely upon (1) their dispersal ability; (2) behavioral or phenotypic plasticity at ecologically relevant traits; and (3) rapid evolution. Rapid population-level microevolution is genetically-mediated and the magnitude and speed of the evolutionary response is dependent on standing variation and the inherent lability of life history traits related to growth, reproduction, and maintenance. 
 
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/36007010/197008091-ba0a9985-0bfd-498b-b14f-301dd371da65.png">
 
