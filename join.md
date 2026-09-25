@@ -10,7 +10,7 @@ lede: "We welcome curious, collaborative people from all backgrounds. Students i
 
 Undergraduates are central to our research. They work in field phenotyping, experimental design, high-performance computing, and our mammalian cell culture suite. Many students start through special studies (BIO 400), STRIDE, AEMES, a paid research assistantship, or a Summer Undergraduate Research Fellowship (SURF). No prior experience is required. Please email Tanya with a few sentences about your interests and your course schedule. Taking BIO 336/337 Genomics is a good way to get started.
 
-Graduates of the lab have gone on to Ph.D. programs (University College Dublin, Duke University) and to positions in the biopharmaceutical industry.
+Graduates of the lab have gone on to Ph.D. programs (University College Dublin, University of Notre Dame) and to positions in the biopharmaceutical industry.
 
 ## Master's students
 
