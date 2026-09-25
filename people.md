@@ -29,10 +29,13 @@ kicker: The lab
 </ul>
 
 ## Lab alumni
-{% assign featured_alumni = site.data.people.alumni | where_exp: "a", "a.photo" %}
-<div class="people">{% for m in featured_alumni %}{% assign m = m %}{% include person.html %}{% endfor %}</div>
-<ul class="alumni" style="margin-top:22px">
-{% for a in site.data.people.alumni %}{% unless a.photo %}<li><strong>{{ a.name }}</strong><span>{{ a.now }}</span></li>{% endunless %}{% endfor %}
+
+### Where are they now?
+<div class="people">{% for m in site.data.people.where_now %}{% include person.html hide_initials=true %}{% endfor %}</div>
+
+### Former lab members
+<ul class="alumni" style="margin-top:12px">
+{% for a in site.data.people.alumni %}<li><strong>{{ a.name }}</strong><span>{{ a.now }}</span></li>{% endfor %}
 </ul>
 
 <h3>Past undergraduate researchers</h3>

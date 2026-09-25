@@ -26,26 +26,26 @@ undergraduate:
   - { name: Sarah Gygax, role: Undergraduate researcher }
   - { name: Darcy Garde, role: Undergraduate researcher }
 
-alumni:
+# Alumni highlighted in "Where are they now?"
+where_now:
   - name: Margaret (Margo) Weber, M.S. '25
     photo: margaret-weber.jpg
     now: "Ph.D. candidate, Teeling Lab, University College Dublin"
     bio: "Margo's M.S. research established the lab's cell culture, protein, and transcriptomic pipeline comparing the long-lived little brown bat with the house mouse. She was a 2023 AFAR TIME Initiative Fellow."
   - name: Mary Ann Martinez Molina '25
     now: "Ph.D. student, Duke University"
+  - name: Zane Reedy
+    now: "Embryology Laboratory Assistant, RMA of New York"
+
+alumni:
   - name: Andrea Batista
     now: "Undergraduate researcher; Horner Fund Summer Fellow (2024)"
-  - name: Naomi de Lashmutt
-    now: "Undergraduate researcher"
   - name: Lucy Gould
     now: "Undergraduate researcher; lead TA for Genomics (BIO 336/337)"
-  - name: Zane Reedy
-    photo: zane-reedy.jpg
-    now: "Embryology Laboratory Assistant, RMA of New York"
 
 # Other undergraduates who have done at least one semester or summer of research in the lab
 past_undergraduates:
-  - Abagail Coleman
+  - Naomi de Lashmutt
   - Sarah Whitin
   - Ayesha Syar
   - Chelsie Wang
@@ -53,7 +53,7 @@ past_undergraduates:
   - Sanjana Yasna
   - Valeria Bastardo Brito
   - Ninna Velasco
-  - Sopha Kurtz
+  - Sophia Kurtz
   - Hildana Shiferaw
   - Maggie Sullivan
   - Jeesung Kwon
