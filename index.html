@@ -1,0 +1,75 @@
+---
+layout: default
+title: Wildlife Genomics Lab
+---
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="kicker">Smith College · Biological Sciences</p>
+      <h1>How life history shapes <em>evolutionary potential</em></h1>
+      <p class="lede">The Wildlife Genomics Lab integrates computational biology, field collections, and cell culture to study the evolution of complex life history traits, such as lifespan and body size, and how they shape species' responses to rapid environmental change. What we learn about a species' unique biology informs applications in conservation, policy, and biotechnology.</p>
+      <div class="btns">
+        <a class="btn primary" href="{{ '/research/' | relative_url }}">Our research</a>
+        <a class="btn" href="{{ '/publications/' | relative_url }}">Publications</a>
+        <a class="btn" href="{{ '/join/' | relative_url }}">Join the lab</a>
+      </div>
+    </div>
+    <figure class="hero-figure">
+      <img src="{{ '/assets/img/hero-fieldwork.jpg' | relative_url }}" alt="Dr. Tanya Lama, wearing a headlamp and field gloves, holds a small bat during nighttime fieldwork" width="1050" height="1400">
+      <figcaption>Bat fieldwork for the Bat1K Longevity Project</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="wrap">
+    <p class="kicker">Research themes</p>
+    <div class="grid-2">
+      <div class="card teal">
+        <span class="accent"></span>
+        <h3>Adaptive potential under rapid environmental change</h3>
+        <p>Using population and functional genomics, we quantify the standing variation that powers evolutionary potential. Our whole-genome study of 58 Canada lynx across Maine and eastern Canada produced the first quantitative measure of evolutionary potential for this federally protected species, and it informs Endangered Species Act recovery planning.</p>
+        <a href="{{ '/research/#adaptive-potential' | relative_url }}">Read more →</a>
+      </div>
+      <div class="card">
+        <span class="accent"></span>
+        <h3>Genomic determinants of extreme phenotypes</h3>
+        <p>We use large-scale comparative genomics to find the species that defy allometric expectations: exceptionally long-lived bats, shrews that shrink and regrow their brains each season, and desert-adapted spiny mice. We then validate candidate mechanisms, such as enhanced mitophagy and proteostasis, in primary cell culture.</p>
+        <a href="{{ '/research/#extreme-phenotypes' | relative_url }}">Read more →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap grid-2" style="grid-template-columns:1.4fr 1fr;align-items:start">
+    <div>
+      <p class="kicker">News</p>
+      <ul class="news">
+        {% for item in site.data.news limit:6 %}
+        <li><time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%b %Y" }}</time><p>{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}</p></li>
+        {% endfor %}
+      </ul>
+      <p style="margin-top:14px"><a href="{{ '/news/' | relative_url }}">All news →</a></p>
+    </div>
+    <aside class="card">
+      <p class="kicker">Principal investigator</p>
+      <img src="{{ '/assets/img/people/tanya-lama.jpg' | relative_url }}" alt="Portrait of Dr. Tanya M. Lama" style="border-radius:12px;margin-bottom:16px" width="600" height="600" loading="lazy">
+      <h3 style="margin:0 0 4px">Tanya M. Lama, PhD</h3>
+      <p style="color:var(--ink-soft);font-size:.95rem">Assistant Professor of Genomics, Department of Biological Sciences, Smith College</p>
+      <p style="font-size:.95rem"><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+      {% include social.html %}
+    </aside>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="wrap">
+    <p class="kicker">Selected publications</p>
+    <ul class="pubs">
+      {% assign featured = site.data.publications | where: "featured", true %}
+      {% for p in featured limit:4 %}{% include pub.html %}{% endfor %}
+    </ul>
+    <p style="margin-top:16px"><a href="{{ '/publications/' | relative_url }}">Full publication list →</a></p>
+  </div>
+</section>

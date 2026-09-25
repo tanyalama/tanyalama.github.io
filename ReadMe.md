@@ -1,8 +1,25 @@
-This is the GitHub repository I used to create my academic website. 
+# Wildlife Genomics Lab @ Smith College — website
 
-[The tutorial can be found here.](http://marisacarlos.com/pages/create-simple-academic-website)
+Source for <https://tanyalama.github.io>, built by GitHub Pages (Jekyll, no remote theme).
 
-Parts of this web site are licensed under
-[CC BY](http://creativecommons.org/licenses/by/3.0/).
+## Updating content (no HTML needed)
 
-[![CC BY](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
+| To change…            | Edit                        |
+|-----------------------|-----------------------------|
+| News items            | `_data/news.yml`            |
+| Publications          | `_data/publications.yml` (+ `in_prep.yml`, `other_pubs.yml`) |
+| Lab members / alumni  | `_data/people.yml` (photos in `assets/img/people/`, ~500 px square JPG) |
+| Page text             | `research.md`, `teaching.md`, `outreach.md`, `join.md`, `cv.md` |
+| Nav, links, email     | `_config.yml`               |
+| Colors / fonts        | `assets/css/main.css` (`:root` variables) |
+
+Drop a public CV at `assets/cv/Lama_CV.pdf` and a download button appears on `/cv/` automatically.
+
+## Preview locally
+
+```
+bundle install
+bundle exec jekyll serve
+```
+
+Old `/pages/*.html` URLs redirect to the new pages.

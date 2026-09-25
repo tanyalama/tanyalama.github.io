@@ -1,0 +1,8 @@
+<ul class="social">
+  {% if site.author.github and site.author.github != "" %}<li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>{% endif %}
+  {% if site.links.google_scholar != "" %}<li><a href="{{ site.links.google_scholar }}">Google Scholar</a></li>{% endif %}
+  {% if site.links.orcid != "" %}<li><a href="{{ site.links.orcid }}">ORCID</a></li>{% endif %}
+  {% if site.links.bluesky != "" %}<li><a href="{{ site.links.bluesky }}">Bluesky</a></li>{% endif %}
+  {% if site.author.twitter and site.author.twitter != "" %}<li><a href="https://x.com/{{ site.author.twitter }}">X / Twitter</a></li>{% endif %}
+  {% if site.links.hackmd != "" %}<li><a href="{{ site.links.hackmd }}">HackMD</a></li>{% endif %}
+</ul>

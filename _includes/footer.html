@@ -1,0 +1,16 @@
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-title">{{ site.title }}</p>
+      <p>Department of Biological Sciences<br>Clark Science Center, Smith College<br>44 College Lane, Northampton, MA 01063</p>
+    </div>
+    <div>
+      <p class="footer-title">Contact</p>
+      <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+      {% include social.html %}
+    </div>
+    <div class="footer-note">
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. Content licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
+    </div>
+  </div>
+</footer>

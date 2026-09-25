@@ -1,0 +1,59 @@
+# Lab roster. Photos live in assets/img/people/. Leave photo blank for an initials avatar.
+# Groups render in this order on the People page.
+faculty:
+  - name: Blair P. Bentley, PhD
+    role: Visiting Assistant Professor, Biological Sciences
+    photo: blair-bentley.jpg
+    email: bbentley@smith.edu
+    bio: "Molecular ecologist studying how climate change shapes vulnerability and resilience, with a focus on marine taxa. Blair joined the lab as a postdoctoral researcher in 2023 and is now a Visiting Assistant Professor in Biological Sciences at Smith."
+
+graduate:
+  - name: Andrew Spencer
+    role: M.S. student, Biological Sciences
+    photo: andrew-spencer.jpg
+    bio: "Andrew studies the genomic and physiological adaptations of the golden spiny mouse (*Acomys russatus*) to its desert environment."
+
+undergraduate:
+  - name: Beatrice Tauer
+    role: Honors thesis student
+    photo: beatrice-tauer.jpg
+    bio: "Beatrice's honors thesis examines differential gene expression in the golden spiny mouse (*Acomys russatus*)."
+  - { name: Isabel Benitez Barron, role: Undergraduate researcher }
+  - { name: Cici Mao, role: Undergraduate researcher }
+  - { name: Eva Larson, role: Undergraduate researcher }
+  - { name: Jackie Wiechmann, role: Undergraduate researcher }
+  - { name: Maria Flores, role: Undergraduate researcher }
+  - { name: Sarah Gygax, role: Undergraduate researcher }
+  - { name: Darcy Garde, role: Undergraduate researcher }
+
+alumni:
+  - name: Margaret (Margo) Weber, M.S. '25
+    photo: margaret-weber.jpg
+    now: "Ph.D. candidate, Teeling Lab, University College Dublin"
+    bio: "Margo's M.S. research established the lab's cell culture, protein, and transcriptomic pipeline comparing the long-lived little brown bat with the house mouse. She was a 2023 AFAR TIME Initiative Fellow."
+  - name: Mary Ann Martinez Molina '25
+    now: "Ph.D. student, Duke University"
+  - name: Andrea Batista
+    now: "Undergraduate researcher; Horner Fund Summer Fellow (2024)"
+  - name: Naomi de Lashmutt
+    now: "Undergraduate researcher"
+  - name: Lucy Gould
+    now: "Undergraduate researcher; lead TA for Genomics (BIO 336/337)"
+  - name: Zane Reedy
+    photo: zane-reedy.jpg
+    now: "Embryology Laboratory Assistant, RMA of New York"
+
+# Other undergraduates who have done at least one semester or summer of research in the lab
+past_undergraduates:
+  - Abagail Coleman
+  - Sarah Whitin
+  - Ayesha Syar
+  - Chelsie Wang
+  - Laura Dreher
+  - Sanjana Yasna
+  - Valeria Bastardo Brito
+  - Ninna Velasco
+  - Sopha Kurtz
+  - Hildana Shiferaw
+  - Maggie Sullivan
+  - Jeesung Kwon

@@ -1,0 +1,6 @@
+<li class="pub">
+  <p class="pub-title">{% if p.doi %}<a href="https://doi.org/{{ p.doi }}">{{ p.title }}</a>{% elsif p.url %}<a href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</p>
+  <p class="pub-authors">{{ p.authors | replace: "Lama TM", "<strong>Lama TM</strong>" }}</p>
+  <p class="pub-venue"><em>{{ p.venue }}</em>{% if p.details %} {{ p.details }}{% endif %}{% if p.year %} ({{ p.year }}){% endif %}{% if p.status %} <span class="tag">{{ p.status }}</span>{% endif %}</p>
+  {% if p.preprint or p.note %}<p class="pub-links">{% if p.preprint %}<a href="https://doi.org/{{ p.preprint }}">Preprint</a>{% endif %}{% if p.note %}<span>{{ p.note }}</span>{% endif %}</p>{% endif %}
+</li>
