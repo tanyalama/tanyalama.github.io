@@ -1,4 +1,5 @@
 <ul class="social">
+  {% if site.links.faculty_profile and site.links.faculty_profile != "" %}<li><a href="{{ site.links.faculty_profile }}">Smith faculty profile</a></li>{% endif %}
   {% if site.author.github and site.author.github != "" %}<li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>{% endif %}
   {% if site.links.google_scholar != "" %}<li><a href="{{ site.links.google_scholar }}">Google Scholar</a></li>{% endif %}
   {% if site.links.orcid != "" %}<li><a href="{{ site.links.orcid }}">ORCID</a></li>{% endif %}

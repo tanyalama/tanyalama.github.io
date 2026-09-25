@@ -11,7 +11,7 @@ kicker: The lab
     <p class="kicker" style="margin-bottom:14px">Principal Investigator · Assistant Professor of Genomics</p>
     <p>Tanya is an Assistant Professor of Genomics in the Department of Biological Sciences at Smith College. She earned her Ph.D. in Conservation Genomics from the University of Massachusetts Amherst, where her dissertation examined the conservation genomics of the threatened Canada lynx in the Northern Appalachian–Acadian ecoregion. She was then a Fulbright Scholar at the Estación Biológica de Doñana (CSIC) in Spain. As an NSF Postdoctoral Research Fellow in Biology, she worked with Elinor Karlsson at the Broad Institute of MIT and Harvard, Liliana Dávalos at Stony Brook University, and Emma Teeling at University College Dublin. She also received pedagogical training as an NIH IRACDA Fellow.</p>
     <p>Tanya leads the Bat1K Longevity Project, serves as Conservation Genomics Lead for the Vertebrate Genomes Project and as Bat1K representative to the Global Bat Network, and has served on the Federal Advisory Committee for Canada lynx since 2018. She is also Scientific Advisor in comparative genomics and molecular evolution at Paratus Sciences.</p>
-    <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> · <a href="{{ '/cv/' | relative_url }}">Curriculum vitae</a></p>
+    <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> · <a href="{{ site.links.faculty_profile }}">Smith faculty profile</a> · <a href="{{ site.links.google_scholar }}">Google Scholar</a> · <a href="{{ '/cv/' | relative_url }}">CV highlights</a></p>
   </div>
 </div>
 

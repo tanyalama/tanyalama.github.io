@@ -17,7 +17,8 @@ author:
 
 # Optional profile links (leave blank to hide)
 links:
-  google_scholar: ""
+  faculty_profile: "https://www.smith.edu/people/tanya-lama"
+  google_scholar: "https://scholar.google.com/citations?user=S4yobocAAAAJ"
   orcid: ""
   bluesky: ""
   hackmd: "https://hackmd.io/@tlama/aboutme"

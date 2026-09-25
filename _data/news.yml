@@ -1,6 +1,4 @@
 # Newest first. Keep each item to one or two sentences. Markdown is allowed.
-- date: 2026-09-01   # TODO: adjust date
-  text: "Welcome to Andrew Spencer (M.S.) and Beatrice Tauer (Honors), who are launching the lab's work on desert adaptation in the golden spiny mouse, *Acomys russatus*."
 - date: 2026-08-26
   text: "Our collaborative paper on longevity and virus-driven adaptation in *Myotis* bats is out in [*Nature*](https://doi.org/10.1038/s41586-026-10932-7)."
 - date: 2026-06-01
@@ -11,6 +9,8 @@
   text: "Two shrew papers with the Dávalos Lab: the pancreas of Aselli in [*BMC Biology*](https://doi.org/10.1186/s12915-025-02420-7), and the adaptive basis of brain size plasticity and chromosomal instability in [*Molecular Biology and Evolution*](https://doi.org/10.1093/molbev/msag006) (2026)."
 - date: 2025-10-01
   text: "Invited talks at the Wellcome Sanger Institute (*Understanding Life*) and Longevity Biotech in Boston."
+- date: 2025-09-01
+  text: "Welcome to Andrew Spencer (M.S.) and Beatrice Tauer (Honors), who are launching the lab's work on desert adaptation in the golden spiny mouse, *Acomys russatus*."
 - date: 2025-06-01
   text: "Congratulations to Margaret Weber (M.S. ’25), now a Ph.D. candidate in the Teeling Lab at University College Dublin, and to Mary Ann Martinez Molina (’25), now a Ph.D. student at Duke."
 - date: 2025-02-13

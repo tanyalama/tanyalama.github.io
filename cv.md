@@ -5,7 +5,7 @@ permalink: /cv/
 kicker: Tanya M. Lama, PhD
 ---
 {% assign cvfile = site.static_files | where: "path", site.cv_pdf | first %}
-{% if cvfile %}<p><a class="btn primary" href="{{ site.cv_pdf | relative_url }}">Download full CV (PDF)</a></p>{% endif %}
+<p class="btns" style="margin-top:0">{% if cvfile %}<a class="btn primary" href="{{ site.cv_pdf | relative_url }}">Download full CV (PDF)</a>{% endif %}<a class="btn{% unless cvfile %} primary{% endunless %}" href="{{ site.links.faculty_profile }}">Smith faculty profile</a><a class="btn" href="{{ site.links.google_scholar }}">Google Scholar</a></p>
 
 ## Appointments
 
