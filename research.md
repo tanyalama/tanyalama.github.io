@@ -23,7 +23,7 @@ Our work also aims to close the gap between genomics research and conservation p
 Allometries describe how life history traits scale with body size and with each other, and they are a central question in evolutionary biology. Using publicly available genomes, we first identify the allometric rules that shape lifespan, brain size, and body size. We then focus on the species that defy those expectations. This approach has highlighted:
 
 - **Extreme longevity, cancer resistance, and viral tolerance in bats.** Tanya leads the [Bat1K](https://bat1k.com/) Longevity Project. Our exploratory data-mining identified enhanced mitophagy and mitochondrial maintenance as geroprotective mechanisms that evolved convergently in bat species whose wild lifespans exceed 30 years ([Morales et al. 2025](https://doi.org/10.1038/s41586-024-08471-0); [Vazquez et al. 2026](https://doi.org/10.1038/s41586-026-10932-7)).
-- **Seasonal brain shrinkage and regrowth in the Eurasian common shrew** (*Sorex araneus*), including links to selection on DNA repair and a newly characterized role for the pancreas of Aselli in immunity ([Thomas et al. 2025](https://doi.org/10.1186/s12915-025-02420-7)).
+- **Seasonal brain shrinkage and regrowth in the Eurasian common shrew** (*Sorex araneus*), including the adaptive basis of brain size plasticity and chromosomal instability ([Thomas et al. 2026](https://doi.org/10.1093/molbev/msag006)) and a newly characterized role for the pancreas of Aselli in immunity ([Thomas et al. 2025](https://doi.org/10.1186/s12915-025-02420-7)).
 - **Desert adaptation in the golden spiny mouse** (*Acomys russatus*), a new direction led by M.S. and Honors students in the lab.
 
 ### From genomes to cells
