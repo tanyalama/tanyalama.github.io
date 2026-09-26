@@ -8,6 +8,7 @@
   doi: 10.1038/s41586-026-10932-7
   preprint: 10.1101/2024.10.10.617725
   featured: true
+
 - title: "Assessing climate adaptation among Canada lynx (Lynx canadensis) populations at the trailing edge"
   authors: "Lama TM, Bentley BP, Johnson WE, Komoroske LM, DeStefano S, Vashon J, Beauclerc K, Kamilar JM, Formenti G, Fedrigo O, Jarvis ED, Bowman J, Wilson P, Organ JF"
   venue: Molecular Ecology
@@ -15,24 +16,28 @@
   year: 2026
   doi: 10.1111/mec.70425
   featured: true
+
 - title: "Genomic comparisons and the adaptive basis of brain size plasticity and chromosomal instability in the Eurasian common shrew"
   authors: "Thomas WR, Lama TM, Baldoni C, Marín-Gual L, … Dávalos LM"
   venue: Molecular Biology and Evolution
   details: "43(2): msag006"
   year: 2026
   doi: 10.1093/molbev/msag006
+
 - title: "Immunoglobulin germline reference sequences enable investigations and reveal insights into bat-specific immunity"
   authors: "Reers AB, Zhan S, Pursell T, Reasoner C, Hodges N, Lama TM, Schountz T, Frank HK"
   venue: iScience
   details: "28: 113903"
   year: 2025
   doi: 10.1016/j.isci.2025.113903
+
 - title: "Gene expression reveals the pancreas of Aselli as a critical organ for plasma cell differentiation in the Eurasian common shrew"
   authors: "Thomas WR, Baldoni C, Lama TM, Zeng Y, Corthals AP, von Elverfeldt D, Nieland J, Dechmann DKN, Dávalos LM"
   venue: BMC Biology
   details: "23: 312"
   year: 2025
   doi: 10.1186/s12915-025-02420-7
+
 - title: "Bat genomes illuminate adaptations to viral tolerance and disease resistance"
   authors: "Morales AE, Dong Y, Brown T, … Lama TM, … Teeling EC, Banerjee A, Irving AT, Hiller M"
   venue: Nature
@@ -40,6 +45,7 @@
   year: 2025
   doi: 10.1038/s41586-024-08471-0
   featured: true
+
 - title: "A landmark environmental law looks ahead: Updating practice for the genomic era"
   authors: "Forester BR, Lama TM, Kardos M"
   venue: Science
@@ -47,6 +53,7 @@
   year: 2023
   doi: 10.1126/science.adn3245
   featured: true
+
 - title: "The role of genomics in the future of Endangered Species Act decision-making"
   authors: "Forester BR, Lama TM"
   venue: "The Codex of the Endangered Species Act, Vol. II (eds. Organ JF, Baier LE). Rowman & Littlefield"
@@ -54,22 +61,26 @@
   year: 2023
   doi: 10.5771/9781538180150-159
   preprint: 10.32942/osf.io/b6rf4
+
 - title: "Canada lynx"
   authors: "Cardoza JE, Lama TM, Mawdsley JR, Organ JF"
   venue: "Wild Furbearer Management and Conservation in North America (ed. Hiller T). Wildlife Ecology Institute"
   year: 2023
+
 - title: "Benchmarking ultra-high molecular weight DNA preservation methods for long-read and long-range sequencing"
   authors: "Dahn HA, Mountcastle J, Balacco J, … Lama TM, … Jarvis ED, Fedrigo O"
   venue: GigaScience
   details: "11: giac068"
   year: 2022
   doi: 10.1093/gigascience/giac068
+
 - title: "Large-scale genome sampling reveals unique immunity and metabolic adaptations in bats"
   authors: "Moreno Santillán DD, Lama TM, Gutierrez Guerrero YT, … Teeling EC, Vernes SC, Dávalos LM"
   venue: Molecular Ecology
   details: "30: 6449–6467"
   year: 2021
   doi: 10.1111/mec.16027
+
 - title: "Towards complete and error-free genome assemblies of all vertebrate species"
   authors: "Rhie A, McCarthy SA, Fedrigo O, … Jarvis ED (Vertebrate Genomes Project)"
   venue: Nature
@@ -77,21 +88,3 @@
   year: 2021
   doi: 10.1038/s41586-021-03451-0
   note: "Includes the Canada lynx reference genome"
-- title: "The North American model and captive cervid facilities—What is the threat?"
-  authors: "Organ JF, Decker TA, Lama TM"
-  venue: Wildlife Society Bulletin
-  details: "40: 10–13"
-  year: 2016
-  doi: 10.1002/wsb.637
-- title: "The effects of model androgen 5α-dihydrotestosterone on mummichog (Fundulus heteroclitus) reproduction under different salinities"
-  authors: "Glinka CO, Frasca S Jr, Provatas AA, Lama TM, DeGuise S, Bosker T"
-  venue: Aquatic Toxicology
-  details: "165: 266–276"
-  year: 2015
-  doi: 10.1016/j.aquatox.2015.05.019
-- title: "Public trust principles and trust administration functions in the North American Model of Wildlife Conservation: Contributions of human dimensions research"
-  authors: "Organ JF, Decker DJ, Stevens SS, Lama TM, Doyle-Capitman C"
-  venue: Human Dimensions of Wildlife
-  details: "19: 407–416"
-  year: 2014
-  doi: 10.1080/10871209.2014.936068
