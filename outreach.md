@@ -11,7 +11,7 @@ kicker: Community
 - **Comparative multi-omic analysis of shorter- and longer-lived bats reveals altered proteostasis.** *Understanding Life: Using Large-scale Biodiversity Reference Genomes*, Wellcome Sanger Institute, Hinxton, UK (Oct 2025)
 - **Bat biotech takes flight: Mining mechanisms of longevity for drug discovery** (with M. Cockett). Longevity Biotech, Boston, MA (Oct 2025)
 - **Exploring lifespan evolution through genomics.** Bard Microcollege Holyoke, MA (Oct 2025)
-- **Genomic variation underlying complex life history traits.** Paratus Sciences, New York (Jul 2024); The Thalion Initiative, Cambridge, MA (May 2024); Tulane University (Apr 2024); UMass Amherst (Feb 2024)
+- **Genomic variation underlying complex life history traits.** The Thalion Initiative, Cambridge, MA (May 2024); Tulane University (Apr 2024); UMass Amherst (Feb 2024)
 - **The role of genomics in the future of ESA decision-making** and panel **The Endangered Species Act at 50.** The Wildlife Society, Louisville, KY (Nov 2023)
 - **Evolutionary genomics for conservation: Assessing vulnerability, resilience, and response in a changing world.** UC Santa Cruz (2022)
 - Earlier talks at the Verena Consortium, Conte Anadromous Fish Research Center, CSU Stanislaus, and Northern Arizona University (2021)

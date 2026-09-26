@@ -30,8 +30,6 @@ Allometries describe how life history traits scale with body size and with each 
 
 Undergraduates run the lab's cell culture suite. They use primary fibroblast cultures from bats, mice, and humans to test candidate mechanisms experimentally. Guided by graduate students, they establish and maintain cultures and extract RNA and protein for transcriptomic sequencing and western blotting. For example, we compare the little brown bat (*Myotis lucifugus*), which can live 34 years in the wild, with the similarly sized house mouse, which lives about 4 years in captivity. Two manuscripts in preparation, co-authored by undergraduates, describe mechanisms that enhance mitochondrial maintenance in long-lived species.
 
-The genes and variants these studies uncover have translational potential. Tanya serves as Scientific Advisor in comparative genomics and molecular evolution to Paratus Sciences, a biotechnology company developing therapeutics for inflammatory disease.
-
 ## Funding
 
 We are grateful for support from the National Science Foundation (Postdoctoral Research Fellowship in Biology), the U.S. Fish & Wildlife Service, the American Federation for Aging Research, the Fulbright Program, the NIH IRACDA program, and Smith College (Blakeslee and Horner Fund endowments).

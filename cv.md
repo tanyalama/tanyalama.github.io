@@ -10,7 +10,6 @@ kicker: Tanya M. Lama, PhD
 ## Appointments
 
 - **Assistant Professor of Genomics**, Department of Biological Sciences, Smith College (2023–present)
-- **Scientific Advisor**, Comparative Genomics and Molecular Evolution, Paratus Sciences (2025–present)
 - **NSF Postdoctoral Research Fellow in Biology**, Broad Institute of MIT and Harvard, with Stony Brook University and University College Dublin (2021–2023)
 - **NIH IRACDA Fellow**, Stony Brook University (2021–2022)
 - **Fulbright Scholar**, Estación Biológica de Doñana, CSIC, Spain (2020–2021)
