@@ -33,10 +33,11 @@ kicker: The lab
 ### Where are they now?
 <div class="people">{% for m in site.data.people.where_now %}{% include person.html hide_initials=true %}{% endfor %}</div>
 
-### Former lab members
+{% if site.data.people.alumni.size > 0 %}### Former lab members
 <ul class="alumni" style="margin-top:12px">
 {% for a in site.data.people.alumni %}<li><strong>{{ a.name }}</strong><span>{{ a.now }}</span></li>{% endfor %}
 </ul>
+{% endif %}
 
 <h3>Past undergraduate researchers</h3>
 <p class="namecloud">{{ site.data.people.past_undergraduates | join: " · " }}</p>

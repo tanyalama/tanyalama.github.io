@@ -34,18 +34,18 @@ where_now:
   - name: Mary Ann Martinez Molina '25
     photo: mary-ann-martinez-molina.jpg
     now: "Ph.D. student, Shaw Lab, University of Notre Dame"
+  - name: Andrea Batista
+    photo: andrea-batista.jpg
+    now: "M.S. student, Genetics and Genomics, Universitat de Barcelona"
   - name: Zane Reedy
     now: "Embryology Laboratory Assistant, RMA of New York"
 
-alumni:
-  - name: Andrea Batista
-    now: "Undergraduate researcher; Horner Fund Summer Fellow (2024)"
-  - name: Lucy Gould
-    now: "Undergraduate researcher; lead TA for Genomics (BIO 336/337)"
+alumni: []
 
 # Other undergraduates who have done at least one semester or summer of research in the lab
 past_undergraduates:
   - Naomi de Lashmutt
+  - Lucy Gould
   - Sarah Whitin
   - Ayesha Syar
   - Chelsie Wang
