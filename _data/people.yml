@@ -25,7 +25,8 @@ undergraduate:
 where_now:
   - name: Blair P. Bentley, PhD
     photo: blair-bentley.jpg
-    now: "Former postdoctoral researcher and Visiting Assistant Professor, Smith College"   # TODO: current position
+    role: "Postdoctoral researcher"
+    now: "Visiting Assistant Professor, Smith College"
     bio: "Molecular ecologist studying how climate change shapes vulnerability and resilience, with a focus on marine taxa."
   - name: Margaret (Margo) Weber, M.S. '25
     photo: margaret-weber.jpg

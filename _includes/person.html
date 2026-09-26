@@ -2,7 +2,7 @@
   {% unless include.hide_initials and m.photo == nil %}<div class="ph">{% if m.photo and m.photo != "" %}<img src="{{ '/assets/img/people/' | append: m.photo | relative_url }}" alt="Portrait of {{ m.name }}" loading="lazy">{% else %}{% assign parts = m.name | split: " " %}<span aria-hidden="true">{{ parts.first | slice: 0 }}{{ parts.last | slice: 0 }}</span>{% endif %}</div>{% endunless %}
   <div class="body">
     <h3>{{ m.name }}</h3>
-    {% if m.role %}<p class="role">{{ m.role }}</p>{% elsif m.now %}<p class="role">Now: {{ m.now }}</p>{% endif %}
+    {% if m.role %}<p class="role">{{ m.role }}</p>{% endif %}{% if m.now %}<p class="role">Now: {{ m.now }}</p>{% endif %}
     {% if m.bio and m.bio != "" %}{{ m.bio | markdownify }}{% endif %}
     {% if m.email %}<p><a href="mailto:{{ m.email }}">{{ m.email }}</a></p>{% endif %}
   </div>
