@@ -16,7 +16,7 @@ The study describes the abundance and distribution of neutral and adaptive varia
 
 Our work also aims to close the gap between genomics research and conservation practice. See our policy forum in [*Science*](https://doi.org/10.1126/science.adn3245) and our chapter in *The Codex of the Endangered Species Act*.
 
-<div class="callout"><strong>Vertebrate Genomes Project.</strong> The lynx reference genome, assembled and annotated through the <a href="https://vertebrategenomesproject.org/">Vertebrate Genomes Project</a>, was published in <a href="https://doi.org/10.1038/s41586-021-03451-0"><em>Nature</em></a> in 2021. Tanya now serves as the consortium's Conservation Genomics Lead, and the lab is leading a companion paper on genomic indicators of resilience and extinction risk across vertebrates.</div>
+<div class="callout"><strong>Vertebrate Genomes Project.</strong> The lynx reference genome, assembled and annotated through the <a href="https://vertebrategenomesproject.org/">Vertebrate Genomes Project</a>, was published in <a href="https://doi.org/10.1038/s41586-021-03451-0"><em>Nature</em></a> in 2021.</div>
 
 ## Mining non-model genomes for the determinants of extreme phenotypes {#extreme-phenotypes}
 

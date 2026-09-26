@@ -41,3 +41,5 @@ kicker: The lab
 
 <h3>Past undergraduate researchers</h3>
 <p class="namecloud">{{ site.data.people.past_undergraduates | join: " · " }}</p>
+
+<p class="callout">If you're a Lab alum, send me an email with a picture and a career update to be featured on our lab webpage (<a href="mailto:tlama@smith.edu">tlama@smith.edu</a>).</p>
