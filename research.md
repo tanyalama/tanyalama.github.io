@@ -33,7 +33,3 @@ Undergraduates run the lab's cell culture suite. They use primary fibroblast cul
 ## Funding
 
 We are grateful for support from the National Science Foundation (Postdoctoral Research Fellowship in Biology), the U.S. Fish & Wildlife Service, the American Federation for Aging Research, the Fulbright Program, the NIH IRACDA program, and Smith College (Blakeslee and Horner Fund endowments).
-
-## Collaborators
-
-Liliana Dávalos (Stony Brook University) · Emma Teeling (University College Dublin) · Elinor Karlsson (Broad Institute) · Michael Hiller (LOEWE-TBG) · David Ray (Texas Tech) · Brenna Forester · John Organ · the Vertebrate Genomes Project and Bat1K consortia
