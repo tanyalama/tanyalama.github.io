@@ -28,7 +28,7 @@ p{margin:0 0 1em}
 .site-header{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--paper) 88%,transparent);backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid var(--line)}
 .header-inner{display:flex;align-items:center;justify-content:space-between;min-height:68px}
 .brand{display:flex;align-items:center;gap:12px;text-decoration:none;color:var(--ink)}
-.brand-mark{width:34px;height:34px;border-radius:9px;background:var(--teal) url("../img/favicon.svg") center/cover}
+.brand-mark{width:56px;height:56px;object-fit:contain}
 .brand-text{font-family:var(--serif);font-weight:650;font-size:1.12rem;line-height:1.1}
 .brand-text small{display:block;font-family:var(--sans);font-weight:500;font-size:.75rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase;margin-top:2px}
 .site-nav ul{list-style:none;display:flex;gap:4px;margin:0;padding:0}
@@ -129,3 +129,6 @@ p{margin:0 0 1em}
 @media (max-width:760px){.footer-grid{grid-template-columns:1fr}}
 .person:not(:has(.ph)){border-top:4px solid var(--gold)}
 .person:not(:has(.ph)) .body{padding-top:22px}
+.footer-brand img{width:96px;height:96px;margin-bottom:10px}
+.header-inner{min-height:76px}
+@media (max-width:860px){.site-nav{top:76px}}
