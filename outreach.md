@@ -21,7 +21,7 @@ Interested in inviting Tanya to speak? Email [{{ site.author.email }}](mailto:{{
 ## Scientific leadership
 
 - Bat1K Project, Longevity Project Lead (2021–present)
-- Vertebrate Genomes Project, Conservation Genomics Lead (2025–present)
+- Vertebrate Genomes Project (2018–present)
 - Global Bat Network, Bat1K Representative (2024–present)
 - Federal Advisory Committee, Canada lynx (2018–present)
 - Grant reviewer, National Science Foundation Integrative Biology (2023–present)
