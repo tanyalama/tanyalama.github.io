@@ -14,8 +14,10 @@ lede: "† denotes a Smith College student co-author. Links go to the published 
 <ul class="pubs">{% for p in y.items %}{% include pub.html %}{% endfor %}</ul>
 {% endfor %}
 
+{% if site.data.in_prep.size > 0 %}
 ## In preparation
 <ul class="pubs">{% for p in site.data.in_prep %}{% include pub.html %}{% endfor %}</ul>
+{% endif %}
 
 {% if site.data.other_pubs.size > 0 %}
 ## Other publications
